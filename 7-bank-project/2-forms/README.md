@@ -2,7 +2,7 @@
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/43)
 
 ### Introduction
 
@@ -181,6 +181,8 @@ Here's a quick video about `async/await` usage:
 
 [![Async and Await for managing promises](https://img.youtube.com/vi/YwmlRkrxvkk/0.jpg)](https://youtube.com/watch?v=YwmlRkrxvkk "Async and Await for managing promises")
 
+> Click the image above for a video about async/await.
+
 We use the `fetch()` API to send JSON data to the server. This method takes 2 parameters:
 
 - The URL of the server, so we put back `//localhost:5000/api/accounts` here.
@@ -281,7 +283,7 @@ Here's an example of what the final login page can look like after a bit of styl
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/44)
 
 ## Review & Self Study
 

@@ -2,7 +2,7 @@
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/41)
 
 ### Introduction
 
@@ -283,6 +283,8 @@ Here's a refresher video on arrow functions:
 
 [![Arrow Functions](https://img.youtube.com/vi/OP6eEbOj2sc/0.jpg)](https://youtube.com/watch?v=OP6eEbOj2sc "Arrow Functions")
 
+> Click the image above for a video about arrow functions.
+
 Now try to use the back and forward buttons of your browsers, and check that the displayed route is correctly updated this time.
 
 ---
@@ -293,7 +295,7 @@ Add a new template and route for a third page that shows the credits for this ap
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/42)
 
 ## Review & Self Study
 
